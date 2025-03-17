@@ -56,7 +56,7 @@ A full-stack e-commerce application built using the **MERN stack** (MongoDB, Exp
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ecommerce-mern.git
+git clone https://github.com/rajthakare237/E-COMMERCE-MERN-STACK.git
 cd ecommerce-mern
 ```
 
