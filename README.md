@@ -6,19 +6,17 @@
 ![Admin Panel](https://drive.google.com/uc?export=view&id=1-MaX1bGhWaXRhHgJOvOor7Ty2MQetpin)  
 ![Checkout](https://drive.google.com/uc?export=view&id=1N6y2xxgOpARoGQLBocsSzZb-JeKvczId)  
 
-A full-stack e-commerce application built using the **MERN stack** (MongoDB, Express, React, Node.js). Users can browse products, add items to the cart, and place orders, while an **admin panel** enables store management. The application includes **user authentication**, a **responsive UI**, and **state management** via the Context API.
+A full-stack e-commerce application built using the **MERN stack** (MongoDB, Express, React, Node.js). Users can browse products, and add items to the cart, while an **admin panel** enables store management. The application includes **user authentication**, a **responsive UI**, and **state management** via the Context API.
 
 ## ✨ Features
 
 - 🔑 **User Authentication** (JWT)
 - 🛒 **Add to Cart, Remove Items, and Checkout**
 - 📦 **Product Listing with Images & Details**
-- 🔍 **Search & Filter Functionality**
 - 🏪 **Admin Panel for Managing Products & Orders**
 - ⚡ **State Management using Context API**
 - 📱 **Fully Responsive UI**
 - 🔐 **Secure API Endpoints with Authentication**
-- 🚀 **Optimized for Performance with Vite**
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +26,6 @@ A full-stack e-commerce application built using the **MERN stack** (MongoDB, Exp
 - Context API for State Management
 - Axios for API Requests
 - React Icons
-- Vite for Fast Development
 
 ### **Backend**
 - Node.js + Express
@@ -41,7 +38,6 @@ A full-stack e-commerce application built using the **MERN stack** (MongoDB, Exp
 - React 18
 - React Router 6
 - Vite for Development
-- ESLint for Code Quality
 
 ## 📌 Prerequisites
 
@@ -64,7 +60,7 @@ cd ecommerce-mern
 ```bash
 cd backend
 npm install
-npm start
+node index.js
 ```
 
 ### Start Frontend
