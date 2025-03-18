@@ -1,10 +1,20 @@
 # 🛍️ E-Commerce Platform - MERN Stack
 
-![Home](https://drive.google.com/uc?export=view&id=1I4JKikJlsvwCJmRHzd0pdWZ74BhHN5UA)  
-![Product Page](https://drive.google.com/uc?export=view&id=1cpB1E9kiDcoTddawtVKxw0zmrU5rPS5g)  
-![Cart](https://drive.google.com/uc?export=view&id=1oBXx5Tlpt-ZtnHQ2p0EUP9UoM-mzqVf6)  
-![Admin Panel](https://drive.google.com/uc?export=view&id=1-MaX1bGhWaXRhHgJOvOor7Ty2MQetpin)  
-![Checkout](https://drive.google.com/uc?export=view&id=1N6y2xxgOpARoGQLBocsSzZb-JeKvczId)  
+---
+![image1](https://drive.google.com/uc?export=view&id=1sUw3CkiiMfBJht8wUaXXq9SD7ccsWUEP)  
+---  
+![image2](https://drive.google.com/uc?export=view&id=1zRfSjElUMO_WCYZs_tA1O_CVTbH5BRk1)  
+---  
+![image3](https://drive.google.com/uc?export=view&id=1rUTtqobzhuNXUeXerK1HpSISZGZb49Ov)  
+---  
+![image4](https://drive.google.com/uc?export=view&id=1iZGjC6M2x0negcjXmxTln3vhNNj-JFF5)  
+---  
+![image5](https://drive.google.com/uc?export=view&id=1de7AN3QAAqOUg5lnDOE5mr5TOEeNwLlo)  
+---  
+![image6](https://drive.google.com/uc?export=view&id=1dTDc52yNuW7EosezAUjl1C_26mM-RF1D)  
+---  
+![image7](https://drive.google.com/uc?export=view&id=1473X75nbCfVULDFeWg_t6K6VcX3XPCr_)  
+---
 
 A full-stack e-commerce application built using the **MERN stack** (MongoDB, Express, React, Node.js). Users can browse products, and add items to the cart, while an **admin panel** enables store management. The application includes **user authentication**, a **responsive UI**, and **state management** via the Context API.
 
