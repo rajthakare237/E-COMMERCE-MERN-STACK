@@ -1,6 +1,5 @@
 # 🛍️ E-Commerce Platform - MERN Stack
 
----
 ![image1](https://drive.google.com/uc?export=view&id=1sUw3CkiiMfBJht8wUaXXq9SD7ccsWUEP)  
 ---  
 ![image2](https://drive.google.com/uc?export=view&id=1zRfSjElUMO_WCYZs_tA1O_CVTbH5BRk1)  
